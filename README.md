@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# A News PhoneGap App
 
 ## Usage
 
